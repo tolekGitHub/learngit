@@ -5,3 +5,5 @@ Git tracks changes.
 Git tracks changes of files.
 //添加远程库
 GitHub 
+//远程修改
+Romote modify
