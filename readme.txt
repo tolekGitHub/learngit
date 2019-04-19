@@ -8,3 +8,4 @@ GitHub
 //远程修改
 Romote modify
 Create a new branch is quick.
+Creating  a new branch is quick and simple.
