@@ -7,3 +7,4 @@ Git tracks changes of files.
 GitHub 
 //远程修改
 Romote modify
+Create a new branch is quick.
