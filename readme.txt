@@ -9,3 +9,5 @@ GitHub
 Romote modify
 Create a new branch is quick.
 Creating  a new branch is quick and simple.
+//feature1分支修改                      
+feature1 branch modify test2.
